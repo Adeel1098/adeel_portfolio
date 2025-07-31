@@ -1,4 +1,4 @@
-# 🌐 Adeel Hassan - Advanced CV Website
+# 🌐 Adeel Hassan
 
 This is my **personal digital CV**, hosted as a static website using HTML, CSS, and JavaScript. It showcases my educational background, skills, academic projects, achievements, and career goals.
 
